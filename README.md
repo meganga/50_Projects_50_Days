@@ -25,7 +25,7 @@ The project is created with:
 
 ## Acknowledgement
 
-**This project is **not** my creation, I have followed the instructions given in the course by Brad Traversy and Florin Pop.**
+*The projects ideas are **not** my creation, I have followed the instructions given in the course by Brad Traversy and Florin Pop to create this.*
 
 - **Course Link**
   - https://www.udemy.com/course/50-projects-50-days/
@@ -33,11 +33,9 @@ The project is created with:
 ## Projects
 
 - Day 1: Project Boilerplate
-  - Just a boilerplate of html and css, whcih saves a till bit of time while creating an project.
-    - *Github page link here* - 
+  - Just a boilerplate of html and css, which saves a little bit of time while creating an project.
     
 - Day 2 : Expanding Cards
-  - Simple pictures which expands when clicked on.
-    - *Github page link here* - 
+  - Simple pictures html page ,where pictures expands when clicked on.
   
 
