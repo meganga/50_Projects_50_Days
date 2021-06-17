@@ -37,5 +37,6 @@ The project is created with:
     
 - Day 2 : Expanding Cards
   - Simple pictures html page ,where pictures expands when clicked on.
-  
 
+- Day 3 : Progress Steps
+  - An html page which shows a progress bar.
